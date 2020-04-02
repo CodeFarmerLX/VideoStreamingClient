@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>brand.jpg</file>
+        <file>Start_DaXian.jpg</file>
+        <file>feiji.jpg</file>
+        <file>huojian.png</file>
+        <file>back.jpg</file>
+        <file>back1.jpg</file>
+        <file>back2.jpg</file>
+        <file>back3.jpg</file>
+        <file>back4.jpg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>gift.qrc</file>
+    </qresource>
+</RCC>
